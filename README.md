@@ -1,4 +1,4 @@
-# n8nworkflows
+# n8n AI Chatbot
 n8n Automation Workflows for AI Chatbots
 [Chatbot appointment scheduler with Google Calendar for dental assistant.json](https://github.com/user-attachments/files/26175183/Chatbot.appointment.scheduler.with.Google.Calendar.for.dental.assistant.json)
 ![bandicam 2026-03-23 11-18-22-573](https://github.com/user-attachments/assets/80985f0c-efa8-4049-b532-9ea7a514537f)
